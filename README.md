@@ -9,3 +9,4 @@ Topics covered:
 5. Internationalization with Resource Messages
 6. OpenAPI Specification (OAS) and Swagger Documentation
 7. Monitoring APIs with Spring Boot Actuator
+8. JPA and Mappings
