@@ -1,4 +1,4 @@
-# Spring Boot RESTful web services
+# Spring Boot RESTful Web Services
 
 Topics covered:
 
